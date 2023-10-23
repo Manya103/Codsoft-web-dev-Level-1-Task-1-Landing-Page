@@ -1,6 +1,4 @@
-# OIBSIP
-
-
+# Level-1-Task-1-Landing Page
 # Landing Page Project README
 
 ## Project Overview
@@ -9,13 +7,18 @@ This repository contains the source code and assets for a simple landing page. T
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Video](#Video)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Video
+
+
+https://github.com/Manya103/Codsoft-web-dev-Level-1-Task-1-Landing-Page/assets/113758890/dd93bddd-e752-4b31-9721-68bdc22d7e1b
 
 
 ## Features
